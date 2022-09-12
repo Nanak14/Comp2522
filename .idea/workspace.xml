@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4baf39e4-dc03-470a-8d88-05ba1e6f21e1" name="Changes" comment="Changed the hello world message.">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COMP2522/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="4baf39e4-dc03-470a-8d88-05ba1e6f21e1" name="Changes" comment="Added a comment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/COMP2522/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COMP2522/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663016860669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added a comment">
+      <created>1663017063070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663017063070</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed the hello world message." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the hello world message." />
+    <MESSAGE value="Added a comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a comment" />
   </component>
 </project>
